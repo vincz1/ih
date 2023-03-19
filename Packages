@@ -1,0 +1,11 @@
+Package: com.ih.hook_iphoneos-arm
+Version: 1.0
+Section: Utilities
+Maintainer: IHTeam
+Architecture: iphoneos-arm
+Filename: ./debs/com.ih.hook_iphoneos-arm.deb
+Size: 12,456
+MD5sum: 088153017B6F251FDB62BBB9E3D5228D
+Description: IheartTeam
+Name: Ih
+Author: IH team
